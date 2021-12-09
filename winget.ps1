@@ -1,4 +1,6 @@
 <# Not available in Winget:
+Adobe Creative Cloud
+ImgBurn
 MSI Afterburner
 Throttlestop
 Tutanota
@@ -13,6 +15,7 @@ winget install -e --id Git.Git;
 winget install -e --id Google.Chrome;
 winget install -e --id Intel.IntelDriverAndSupportAssistant;
 winget install -e --id KhronosGroup.VulkanSDK;
+winget install -e --id Microsoft.VisualStudio.Community;
 winget install -e --id Microsoft.VisualStudioCode;
 winget install -e --id Microsoft.WindowsTerminal;
 winget install -e --id Mozilla.FirefoxDeveloperEdition;
