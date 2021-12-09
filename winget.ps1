@@ -1,6 +1,7 @@
 <# Not available in Winget:
 Adobe Creative Cloud
 ImgBurn
+Line6 Software
 MSI Afterburner
 Throttlestop
 Tutanota
