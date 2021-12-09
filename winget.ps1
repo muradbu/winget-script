@@ -30,6 +30,7 @@ winget install -e --id Python.Python;
 winget install -e --id REALiX.HWiNFO;
 winget install -e --id Spotify.Spotify;
 winget install -e --id TechPowerUp.GPU-Z;
+winget install -e --id Tutanota.Tutanota;
 winget install -e --id Valve.Steam;
 winget install -e --id VideoLAN.VLC;
 winget install -e --id dbeaver.dbeaver;
