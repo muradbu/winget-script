@@ -1,5 +1,6 @@
 <# Not available in Winget:
 Adobe Creative Cloud
+Asus laptop drivers
 ImgBurn
 Line6 Software
 MSI Afterburner
