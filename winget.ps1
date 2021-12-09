@@ -4,7 +4,6 @@ ImgBurn
 Line6 Software
 MSI Afterburner
 Throttlestop
-Tutanota
 #>
 
 winget install -e --id 7zip.7zip;
