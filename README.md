@@ -7,6 +7,6 @@ https://github.com/microsoft/winget-cli/releases
 
 Open PowerShell and run (replace file paths to correct locations):
 
-`Add-AppxProvisionedPackage -Online -PackagePath _PATH TO MSIXBUNDLE_ -LicensePath _PATH TO XML_ -Verbose`
+`Add-AppxProvisionedPackage -Online -PackagePath PATH TO MSIXBUNDLE -LicensePath PATH TO XML -Verbose`
 
 Wait for install to finish and you're done.
