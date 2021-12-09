@@ -18,7 +18,7 @@ winget install -e --id KhronosGroup.VulkanSDK;
 winget install -e --id Microsoft.VisualStudio.Community;
 winget install -e --id Microsoft.VisualStudioCode;
 winget install -e --id Microsoft.WindowsTerminal;
-winget install -e --id Mozilla.FirefoxDeveloperEdition;
+winget install -e --id Mozilla.Firefox.DeveloperEdition;
 winget install -e --id Notion.Notion;
 winget install -e --id Nvidia.GeForceExperience;
 winget install -e --id OBSProject.OBSStudio;
