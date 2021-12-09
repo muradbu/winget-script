@@ -26,6 +26,7 @@ winget install -e --id OBSProject.OBSStudio;
 winget install -e --id OpenJS.Nodejs;
 winget install -e --id PostgreSQL.PostgreSQL;
 winget install -e --id ProtonTechnologies.ProtonVPN;
+winget install -e --id Python.Python;
 winget install -e --id REALiX.HWiNFO;
 winget install -e --id Spotify.Spotify;
 winget install -e --id TechPowerUp.GPU-Z;
