@@ -6,6 +6,7 @@ MSI Afterburner
 Throttlestop
 #>
 
+
 winget install -e --id 7zip.7zip;
 winget install -e --id CPUID.CPU-Z;
 winget install -e --id Discord.Discord;
@@ -28,6 +29,7 @@ winget install -e --id PostgreSQL.PostgreSQL;
 winget install -e --id ProtonTechnologies.ProtonVPN;
 winget install -e --id Python.Python;
 winget install -e --id REALiX.HWiNFO;
+winget install -e --id Rufus.Rufus;
 winget install -e --id Spotify.Spotify;
 winget install -e --id TechPowerUp.GPU-Z;
 winget install -e --id Tutanota.Tutanota;
