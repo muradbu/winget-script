@@ -1,5 +1,6 @@
 <# Not available in Winget:
 Adobe Creative Cloud
+Asus laptop drivers
 ImgBurn
 Line6 Software
 MSI Afterburner
@@ -23,7 +24,7 @@ winget install -e --id Mozilla.Firefox.DeveloperEdition;
 winget install -e --id Notion.Notion;
 winget install -e --id Nvidia.GeForceExperience;
 winget install -e --id OBSProject.OBSStudio;
-winget install -e --id OpenJS.Nodejs;jf
+winget install -e --id OpenJS.Nodejs;
 winget install -e --id Oracle.JavaRuntimeEnvironment;
 winget install -e --id PostgreSQL.PostgreSQL;
 winget install -e --id ProtonTechnologies.ProtonVPN;
