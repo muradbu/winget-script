@@ -7,8 +7,8 @@ MSI Afterburner
 Throttlestop
 #>
 
-
 winget install -e --id 7zip.7zip;
+winget install -e --id Bitwarden.Bitwarden;
 winget install -e --id CPUID.CPU-Z;
 winget install -e --id Discord.Discord;
 winget install -e --id Docker.DockerDesktop;
