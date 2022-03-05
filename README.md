@@ -5,12 +5,6 @@ A list of programs I might install.
 
 > ⚠ Manual installation does not receive auto updates, but is the only option without installing Windows Store on LTSC ⚠
 
-## Pre-requisites 
-
-This guide assumes you have [App Installer](https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1) installed, which was included in my LTSC IoT installation by default.
-
-You can check if you have App Installer installed by opening `Windows Settings > Apps > Apps & Features` and checking the list of programs for App Installer.
-
 ## Installing Dependencies
 
 * Open an elevated (administrator) PowerShell prompt and keep it open throughout this guide.
