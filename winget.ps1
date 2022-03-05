@@ -1,9 +1,10 @@
 <# Not available in Winget:
 Adobe Creative Cloud
 Asus laptop drivers
-ImgBurn
 Line6 Software
 MSI Afterburner
+Nvidia Inspector
+Paint.net
 Throttlestop
 #>
 
@@ -15,9 +16,13 @@ winget install -e --id Docker.DockerDesktop;
 winget install -e --id Figma.Figma;
 winget install -e --id Git.Git;
 winget install -e --id Google.AndroidStudio;
+winget install -e --id Google.Chrome.Dev;
 winget install -e --id Google.Chrome;
+winget install -e --id Insomnia.Insomnia;
 winget install -e --id Intel.IntelDriverAndSupportAssistant;
 winget install -e --id KhronosGroup.VulkanSDK;
+winget install -e --id LIGHTNINGUK.ImgBurn;
+winget install -e --id Microsoft.Teams;
 winget install -e --id Microsoft.VisualStudio.Community;
 winget install -e --id Microsoft.VisualStudioCode;
 winget install -e --id Microsoft.WindowsTerminal;
@@ -38,5 +43,6 @@ winget install -e --id Tutanota.Tutanota;
 winget install -e --id Valve.Steam;
 winget install -e --id VideoLAN.VLC;
 winget install -e --id dbeaver.dbeaver;
+winget install -e --id eloston.ungoogled-chromium;
 winget install -e --id qBittorrent.qBittorrent;
 winget install -e --id vim.vim;
