@@ -1,6 +1,6 @@
 # What's this?
 
-In this repo I maintain a script ([winget.ps1](https://github.com/muradbuyukasik/winget-script/blob/main/winget.ps1)) of software I may install on a fresh installation of Windows 10 using Winget, and an installation guide for Winget on Windows 10 LTSC which can be found below.
+In this repo I maintain a list ([winget.ps1](https://github.com/muradbuyukasik/winget-script/blob/main/winget.ps1)) of software I may install on a fresh installation of Windows 10 using Winget, and an installation guide for Winget on Windows 10 LTSC which can be found below.
 
 # Installing Winget on Windows 10 LTSC (IoT) manually
 
