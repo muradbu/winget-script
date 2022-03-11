@@ -1,6 +1,7 @@
 <# Not available in Winget:
 Adobe Creative Cloud
 Asus laptop drivers
+JPEGView
 Line6 Software
 MSI Afterburner
 Nvidia Inspector
