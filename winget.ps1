@@ -13,6 +13,7 @@ winget install -e --id Bitwarden.Bitwarden;
 winget install -e --id CPUID.CPU-Z;
 winget install -e --id Discord.Discord;
 winget install -e --id Docker.DockerDesktop;
+winget install -e --id DuongDieuPhap.ImageGlass;
 winget install -e --id Figma.Figma;
 winget install -e --id Git.Git;
 winget install -e --id Google.AndroidStudio;
