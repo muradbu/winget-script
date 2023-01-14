@@ -18,7 +18,6 @@ winget install -e --id DuongDieuPhap.ImageGlass;
 winget install -e --id Figma.Figma;
 winget install -e --id Git.Git;
 winget install -e --id Google.AndroidStudio;
-winget install -e --id Google.Chrome.Dev;
 winget install -e --id Google.Chrome;
 winget install -e --id Insomnia.Insomnia;
 winget install -e --id Intel.IntelDriverAndSupportAssistant;
