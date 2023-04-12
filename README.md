@@ -1,3 +1,7 @@
+> **Important update!**
+> 
+> I'm no longer actively maintaining this due to moving to macOS as my daily OS.
+
 # What's this?
 
 In this repo I maintain a list ([winget.ps1](https://github.com/muradbuyukasik/winget-script/blob/main/winget.ps1)) of software I may install on a fresh installation of Windows 10 using Winget, and an installation guide for Winget on Windows 10 LTSC which can be found below.
