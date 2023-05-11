@@ -33,7 +33,7 @@ winget install -e --id Nvidia.GeForceExperience;
 winget install -e --id OBSProject.OBSStudio;
 winget install -e --id OpenJS.NodeJS.LTS;
 winget install -e --id Oracle.JavaRuntimeEnvironment;
-winget install -e --id Oracke.JDK.17;
+winget install -e --id Oracle.JDK.17;
 winget install -e --id PostgreSQL.PostgreSQL;
 winget install -e --id ProtonTechnologies.ProtonVPN;
 winget install -e --id Python.Python;
